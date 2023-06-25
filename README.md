@@ -1,4 +1,4 @@
-# dynamic-button
+# Dynamic button
 Implementation of a dynamic button
 
 Run command "yarn install"
